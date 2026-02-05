@@ -1,4 +1,4 @@
-# 📊 Contoso Retail BI Capstone Project
+[# 📊 Contoso Retail BI Capstone Project]([url](https://island-minnow-898.notion.site/Capstone-2fd7c3dcaf718051afe0eeee62fe4ed0))
 
 ## Overview
 This project delivers an end-to-end **Business Intelligence solution** for Contoso, a multi-channel retail company. Using SQL Server and Power BI, the project transforms large-scale transactional and dimensional data into an executive-ready dashboard that supports performance monitoring, profitability analysis, and strategic decision-making.
